@@ -1,0 +1,46 @@
+*{
+    margin:0%;
+    padding:0%; 
+    font-family: "Poppins", sans-serif;
+}
+nav{    
+width:100%;
+height:50px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.container{
+   background-image:url(https://media.istockphoto.com/id/1370758576/vector/young-woman-sits-with-at-the-computer-at-the-desk.jpg?s=612x612&w=0&k=20&c=6jwRbkKcLWhDsaOMIEEx9UUPZzSLvAyIt3j9iJo1RT0=); 
+   background-size:cover;
+   height:100vh;
+width: 100%;
+
+
+}
+.name{
+    font-family: "Cedarville Cursive", cursive;
+    font-size: 1.5em;
+    color:orangered;
+}
+.menu a{
+    text-decoration: none;
+    padding: 10px 50px;
+    font-size: 20px;
+}  
+.text1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+p{
+    width: 50%;
+}
+.link{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 50%;
+    display: flex;
+align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+}
